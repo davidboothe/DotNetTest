@@ -135,7 +135,6 @@
       }
     }
   },
-  "defaultProject": "DotNetTest",
   "cli": {
     "analytics": "32d1a7f4-ab0b-4a21-8062-4b36b0b48fe4"
   }
